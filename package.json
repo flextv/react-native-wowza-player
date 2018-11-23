@@ -1,0 +1,23 @@
+{
+  "name": "react-native-wowza-player",
+  "version": "1.0.0",
+  "description": "React Native wrapper for the Wowza player SDK",
+  "homepage": "https://github.com/flextv/react-native-wowza-player",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flextv/react-native-wowza-player.git"
+  },
+  "bugs": "https://github.com/flextv/react-native-wowza-player/issues",
+  "author": "Petr Bela <github@petrbela.com>",
+  "keywords": [
+    "react-native",
+    "wowza",
+    "player",
+    "video",
+    "streaming"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "dependencies": {},
+  "devDependencies": {}
+}
